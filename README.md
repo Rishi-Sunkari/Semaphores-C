@@ -50,7 +50,7 @@ The system is divided into four main components:
 
 &nbsp;  ```bash
 
-&nbsp;  git clone \[https://github.com/yourusername/restaurant-simulation.git](https://github.com/yourusername/restaurant-simulation.git)
+&nbsp;  git clone \[https://github.com/Rishi-Sunkari/Semaphores-C]
 
 &nbsp;  cd restaurant-simulation
 
