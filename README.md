@@ -70,4 +70,6 @@ gcc -o gen generator.c
 
 ./customer\_client
 
+pdf (https://drive.google.com/file/d/1dYharAOJ-J5MnX0ffy90RsWgADjbiNp4/view?usp=sharing)
+
 
